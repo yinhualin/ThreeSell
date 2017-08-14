@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\960cab8b7da02d8e22d57f86c7b0e23d4d283456\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29bb2a06ad7415cd334e8ddcf31b267e6704d2ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\glide-3.5.2_1064d70fbcdd6ab73c546d473521f1083ebd9b26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\960cab8b7da02d8e22d57f86c7b0e23d4d283456\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_29bb2a06ad7415cd334e8ddcf31b267e6704d2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_1064d70fbcdd6ab73c546d473521f1083ebd9b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\axehomeproject\ThreeSell\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6ea7e199cf666cc9b157f622d202e07fbc25236d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_f89c3b5a0fc1c0e1c1b1307f37a68e33027f3009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\315ef4f923145a5afd7611ca383474ecd658ab1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f4bfba7f2615a9a174a1da4d74377cc668c6bbf">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15d8b91f23de73dac8cb5376ab2214c50f57a792\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\eventbus-3.0.0_3d8d9206d77e39de0a87ee200e12e04d1ab4c7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_f89c3b5a0fc1c0e1c1b1307f37a68e33027f3009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\315ef4f923145a5afd7611ca383474ecd658ab1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f4bfba7f2615a9a174a1da4d74377cc668c6bbf">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_15d8b91f23de73dac8cb5376ab2214c50f57a792.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_3d8d9206d77e39de0a87ee200e12e04d1ab4c7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\ad26e6fc12de639244e6c2e417e7e5240751834b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_fc0a6ee697e562134a044d4838d8561d538d2ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\4ae27a89cc62a091b2f2c204bf297a85b8ccc777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_c18fa7a81ebeb6bd3ab4984eda6843587515b763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\axehomeproject\ThreeSell\library_pullToRefresh\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5eba4075182994bd77883e4b47af656a93b9ec3c">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_3af2490767b3d5ea50d7e1ae29ccd95d0b540e55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\4ae27a89cc62a091b2f2c204bf297a85b8ccc777\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c18fa7a81ebeb6bd3ab4984eda6843587515b763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\ad26e6fc12de639244e6c2e417e7e5240751834b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc0a6ee697e562134a044d4838d8561d538d2ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\1afa07c6bd5bb9b1e3df8077c781aa48b33ee60e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_bd66f080c32bc5677e0d04c25f3b5c8a1377cf77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\9b12eaa43e74f9c4f6757623c25f7f0d583f832a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25f73a0c1088cadd75fcaa5c9a023a48f3bcd67f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\1afa07c6bd5bb9b1e3df8077c781aa48b33ee60e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd66f080c32bc5677e0d04c25f3b5c8a1377cf77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\fd25a017eac6f3051ca56e91bf9dfb2eabdb50ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bf0581e3c0ae5dc9a5f99fd5d00823b877d162">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_563ff10e567525354bff37660667795ae76e2334\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\fd25a017eac6f3051ca56e91bf9dfb2eabdb50ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bf0581e3c0ae5dc9a5f99fd5d00823b877d162">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_563ff10e567525354bff37660667795ae76e2334.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_a97359871209e3066803e56e7a48df80bce03b79\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\15765dc52257633817dd4ea2583a66118441b0b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_098cbed33c278658d5b35e8c5bcce93a7e393b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\butterknife-5.1.1_a97359871209e3066803e56e7a48df80bce03b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\9b12eaa43e74f9c4f6757623c25f7f0d583f832a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_25f73a0c1088cadd75fcaa5c9a023a48f3bcd67f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\axehomeproject\ThreeSell\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="930fc9822e3f0ede44e6ea31575190cd55f9fbb4">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_73ba5a69c88421ed49ecac2f2cd838eeb381ed41\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\90340d2aefc9a09d94306afe42d5c93b60193a0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ebb7f78797145b1a8bd4002573fa9bc72a1e6aea">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_89d56c37562fb9cf2a1d0372794cbf1fae04971f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\4ada9a8e1a1fb2578c889deeaf73277564da23c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04a6a4f934ab31ffbfee6842b1d1bae0f95f27e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\4ada9a8e1a1fb2578c889deeaf73277564da23c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_04a6a4f934ab31ffbfee6842b1d1bae0f95f27e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\90340d2aefc9a09d94306afe42d5c93b60193a0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ebb7f78797145b1a8bd4002573fa9bc72a1e6aea">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89d56c37562fb9cf2a1d0372794cbf1fae04971f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\1e3c178d613c5f9cd46c5fcb362b907a2932d9aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f81052454f0784c66f012004baf532c41703d42">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_8307b26ac5cf1d49beda32d4696aeabfdcc0deb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\okio-1.8.0_9c5098be99c92250b200953739e236e74eb93889.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\1e3c178d613c5f9cd46c5fcb362b907a2932d9aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f81052454f0784c66f012004baf532c41703d42">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8307b26ac5cf1d49beda32d4696aeabfdcc0deb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\dd84d2f5d70193e8206b6d990e2ea20caf6969c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_87951919bfae13e6d3728f959e0648fbd221fe9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\okhttp-3.3.1_0567812b69f647f5a310e0cf532763aec977c326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\b5689570e11c1b402dbeebd6ddb6ecfdd66a4fc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_253d4f5ebc8ba1b70a9ed615db852c07bbf55f86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\1e587cb634695dcc659a227e287d98fdaf92408d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d927a3b35bbd459830e954161b70233651adcd0">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a0195f84065c7c3e63cc431b75516cefb98820b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\1c7879860c39f04dd8e79077d09b9cbe28e76fc3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e62e8139d5ccdb01bc79c5c2ccee161728e6832\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\1e587cb634695dcc659a227e287d98fdaf92408d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d927a3b35bbd459830e954161b70233651adcd0">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_7a0195f84065c7c3e63cc431b75516cefb98820b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\d1ac6189fba72a48c1592d2856c131b920758717\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_29e8d8597fc207179650b36b4872226ac9e5272d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\c76198e35b4d74ec77bf37e0f8fe2b63cbed780d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_72b02704850d96819ca3ec95d14f320f1e2511a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张宝\.android\build-cache\1c7879860c39f04dd8e79077d09b9cbe28e76fc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\pre-dexed\release\classes_5e62e8139d5ccdb01bc79c5c2ccee161728e6832.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\c76198e35b4d74ec77bf37e0f8fe2b63cbed780d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72b02704850d96819ca3ec95d14f320f1e2511a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张宝\.android\build-cache\dd84d2f5d70193e8206b6d990e2ea20caf6969c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\axehomeproject\ThreeSell\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87951919bfae13e6d3728f959e0648fbd221fe9f\classes.dex" />
+    </item>
+
+</items>

@@ -8,7 +8,7 @@
     android:orientation="vertical"
     tools:context="axhome.com.threesell.activity.ForgetPwdNextActivity">
     <TextView
-        android:id="@+id/tv_registernext_syb"
+        android:id="@+id/tv_forgetpwdnext_syb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
@@ -44,7 +44,7 @@
 
         <EditText
             android:inputType="textPassword"
-            android:id="@+id/et_registernext_pwd"
+            android:id="@+id/et_forgetpwdnext_pwd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
@@ -79,7 +79,7 @@
 
         <EditText
             android:inputType="textPassword"
-            android:id="@+id/et_refisternext_surepwd"
+            android:id="@+id/et_forgetpwdnext_surepwd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
@@ -100,7 +100,7 @@
         android:background="#CBCBCB"></View>
 
     <Button
-        android:id="@+id/btn_registernext_sure"
+        android:id="@+id/btn_forgetpwdnext_sure"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="46dp"

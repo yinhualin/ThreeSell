@@ -13,4 +13,8 @@ public class NetConfig {
     public final static String SIGN_URL=BASE_URL+"user/add.action";
     //注册短信验证码
     public final static String SIGN_SENDCODE_URL=BASE_URL+"user/short_message1.action";
+    //忘记密码短信验证码
+    public final static String FORGETPWD_SENDCODE_URL=BASE_URL+"user/short_message2.action";
+    //忘记密码
+    public final static String FORGETPWD_URL=BASE_URL+"user/updatePassword.action";
 }

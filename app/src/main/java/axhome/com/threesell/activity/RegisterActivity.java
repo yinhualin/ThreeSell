@@ -116,31 +116,15 @@ public class RegisterActivity extends AppCompatActivity {
                     Toast.makeText(this, "请输入手机号", Toast.LENGTH_SHORT).show();
                 } else if(TextUtils.isEmpty(code)){
                     Toast.makeText(this, "请输入验证码", Toast.LENGTH_SHORT).show();
-            }else if(TextUtils.isEmpty(password)){
-                    Toast.makeText(this, "请输入密码", Toast.LENGTH_SHORT).show();
-                }else {
-                    Log.e("aaa","---注册地址---->"+NetConfig.SIGN_URL);
-                    Log.e("aaa","---注册参数--mobile-->"+phone1+"==captcha=="+code+"==password==="+password);
-                    OkHttpUtils.post().url(NetConfig.SIGN_URL)
-                            .addParams("pid","")
-                            .addParams("mobile",phone1)
-                            .addParams("captcha",code)
-                            .addParams("password",password)
-                            .build()
-                            .execute(new StringCallback() {
-                                @Override
-                                public void onError(Call call, Exception e, int id) {
+            }else {
+                    Intent intent=new Intent(RegisterActivity.this,RegisterNextActivity.class);
+                    intent.putExtra("phone",phone1);
+                    intent.putExtra("code",code);
+                    intent.putExtra("yqm",password);
+                    startActivity(intent);
 
-                                }
-
-                                @Override
-                                public void onResponse(String response, int id) {
-                                    Log.e("aaa","--注册返回---->"+response);
-
-                                }
-                            });
                 }
-//                startActivity(new Intent(this, LoginActivity.class));
+
                 break;
         }
     }
