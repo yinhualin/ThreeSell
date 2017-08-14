@@ -1,0 +1,242 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_head"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="35dp">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="#EBEBEB"></View>
+            <!--头像用户名-->
+            <LinearLayout
+                android:id="@+id/ll_info"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+
+                android:background="#fff"
+                android:orientation="horizontal">
+
+                <com.example.youngkaaa.ycircleview.CircleView
+                    android:id="@+id/iv_myfragment_headimage"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="15dp"
+                    android:scaleType="centerCrop"
+                    app:imgSrc="@drawable/my_headimage"/>
+
+                <TextView
+                    android:id="@+id/tv_myfragment_username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="用户名"/>
+
+                <ImageView
+                    android:id="@+id/iv_myfragment_ewm"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/my_ewm"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/my_right_arrow"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="#EBEBEB"></View>
+            <!--我的订单-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_order"
+                style="@style/my_linearlayout"
+                >
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_order"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="我的订单"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="#EBEBEB"></View>
+            <!--我得下线-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_xiaxian"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_xiaxian"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="我的下线"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <TextView style="@style/my_line"/>
+            <!--我的钱包-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_wallet"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_wallet"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="我的钱包"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <TextView style="@style/my_line"/>
+            <!--地址管理-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_address"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_address"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="地址管理"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <TextView style="@style/my_line"/>
+            <!--我的消息-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_msg"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_msg"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="我的消息"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <TextView style="@style/my_line"/>
+            <!--我的设置-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_setting"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_setting"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="我的设置"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="#EBEBEB"></View>
+            <!--关于我们-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_about"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_about"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="关于我们"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+
+            <TextView style="@style/my_line"/>
+            <!--客服中心-->
+            <LinearLayout
+                android:id="@+id/ll_myfragment_service"
+                style="@style/my_linearlayout">
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_service"/>
+
+                <TextView
+                    style="@style/my_textview"
+                    android:text="客服中心"/>
+
+                <ImageView
+                    style="@style/my_imageview"
+                    android:src="@drawable/my_right_arrow"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
